@@ -1,5 +1,7 @@
 # Storeth Contracts
 
+### Frontend: ### Contracts: https://github.com/pacelliv/storeth-frontend
+
 ### Quickstart
 
 Create a keystore
@@ -41,6 +43,7 @@ make format
 ### Project commands
 
 #### Deploy factory (StorageFactory)
+
 ```bash
 make deploy ARGS="-d --network sepolia"
 ```
@@ -48,6 +51,7 @@ make deploy ARGS="-d --network sepolia"
 Grab the address of the deployed factory and store it in `script/StorageFactory.s.sol` line 7.
 
 #### Create a database (SimpleStorage)
+
 ```bash
 make create_db ARGS="-i --network sepolia"
 ```
