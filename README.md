@@ -1,6 +1,6 @@
 # Storeth Contracts
 
-### Frontend: ### Contracts: https://github.com/pacelliv/storeth-frontend
+### Frontend: https://github.com/pacelliv/storeth-frontend
 
 ### Quickstart
 
